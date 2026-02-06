@@ -1,4 +1,5 @@
 import Shoes from "../img/shoes color all.webp";
+import logo from "../public/img/Goalkeeper.jpg"
 function App() {
   const item1 =
     "https://www.amazon.com/adidas-Adizero-Sneaker-White-Metallic/dp/B0C2JV55SG/ref=sr_1_21?dib=eyJ2IjoiMSJ9.D-tDtxvxW3BC8eH7Jqdj-gOAZV1HNCl54lAzKsVjKORuGbrMIbuC505OnxE6OHChBdNzY3Eq2nOTglcVwTh3ib019dP1BUpBswOZw5HwT8OuXR8EMtbMXYPfz3nJzGJH6toEbDLIAc76U26oiyPiha-GBrcr5hNg8Pd0-Z2TUlu9JtzsihsFFOeGfPI_G07bme6VIEBm-n9ktp95rdX8u2hzzw2wpByxWhT0WAw-eVBauOIbyqrAHkkr7LJv57edQU2XpAxMKU5gq7AeU8ZgbZRItgPlf5GLxeHzJG7QZ-A.zJ1di-5r2ZIz-d59a6fXssX5cQ9dnx9OfZpy5YQWWhg&dib_tag=se&keywords=football%2Bboots&qid=1770109515&sr=8-21&th=1&psc=1";
@@ -346,7 +347,7 @@ function App() {
           </a>
         </div>
       </div>
-      <img src="img/Goalkeeper.jpg" alt="" />
+      <img src={logo} />
       {/* អាវត្រឹមនឹង */}
     </div>
   );
