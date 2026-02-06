@@ -30,7 +30,7 @@ function App() {
           <a href="#">About</a>
         </nav>
       </div>
-      <div className="text-amber-50 text-center text-7xl p-7 font-serif font-bold ">
+      <div className="text-amber-50 text-center text-5xl p-7 font-serif font-bold ">
         Shoes football
       </div>
       <img src={Shoes} className="w-full h-100 object-center rounded-lg" />
@@ -210,8 +210,8 @@ function App() {
       />
       {/* ស្បែកជើងចប់ត្រឹមនឹង */}
 
-      <div className="text-amber-50 text-center text-7xl p-7 font-serif font-bold ">
-        Football Accessories{" "}
+      <div className="text-amber-50 text-center text-5xl p-7 font-serif font-bold ">
+        Football Accessories
       </div>
 
       {/* product A */}
