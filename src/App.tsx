@@ -141,7 +141,7 @@ function App() {
               <br />
               Color: Red/White
             </h1>
-            New Balance Men's 442 V2 Team FG Soccer Shoe{" "}
+            New Balance Men's 442 V2 Team FG Soccer Shoe
           </p>
           <a href={item6} target="_blenk">
             <button className="bg-pink-700 px-6 py-2 rounded-full mt-60 ">
@@ -201,7 +201,7 @@ function App() {
             </button>
           </a>
         </div>
-        ​{" "}
+      
       </div>
       <img
         src="img/shoes remove background.png"
@@ -281,7 +281,7 @@ function App() {
       {/* ស្រោមដៃ​ត្រឺមនឹង */}
 
       <div className="text-amber-50 text-center text-7xl p-7 font-serif font-bold ">
-        Shirt Goalkeeper{" "}
+        Shirt Goalkeeper
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 p-5 mt-15 ">
